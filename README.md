@@ -1,4 +1,7 @@
 # windowsScripts
 ## Some helpfull (or helpless lol) Windows stuff
-* [Import Wi-Fi profiles](https://github.com/dittohead/windowsScripts/blob/master/importwifiprofiles.py) - you can backup all yours Wi-Fi config and restore it for one movements [How to backup guide](https://winaero.com/blog/backup-and-restore-wireless-network-profiles-in-windows-10/)
-* TODO: same import but in cmd file
+* [Bacup Windows Wi-Fi profiles cmd](https://github.com/dittohead/windowsScripts/blob/master/bacupWiFiProfiles.cmd) - bacup all saved Wi-Fi networks;
+* [Restore Windows Wi-Fi profiles cmd] - put it to folder with saved XML Wi-Fi configs and run for restore;
+* [Restore Wi-Fi profiles Python](https://github.com/dittohead/windowsScripts/blob/master/importwifiprofiles.py) - same thing for restore, but on Python 3;
+
+* To be updated
